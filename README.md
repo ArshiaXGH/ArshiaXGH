@@ -15,8 +15,6 @@
 
 - 🤝 I'm looking for help with **learning design patterns**
 
-- 📫 How to reach me **arshiagh.network@gmail.com**
-
 <h3 align="left">Main Skills:</h3>
 
 <p align="left">

@@ -31,4 +31,7 @@
   <a href="https://wa.me/+989152230558?text=Hi%20Arshia%2C%20I%27d%20like%20to%20connect">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp">
   </a>
+    <a href="mailto:arshiagh.network@gmail.com?subject=Hello%20Arshia&body=Hi%20Arshia%2C%20I%27d%20like%20to%20connect">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>

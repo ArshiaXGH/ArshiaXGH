@@ -1,5 +1,12 @@
 ### Crafting the Modern Web.
 
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Montserrat&amp;weight=500&amp;size=25&amp;duration=4500&amp;pause=500&amp;color=D9BED1&amp;width=520&amp;lines=Hello%2C+it%27s+Arshia+Ghazanfari"
+    alt="Hello, it's Arshia Ghazanfari"
+  />
+</a>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ArshiaXGH&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="ArshiaXGH" />
 </p>
@@ -13,12 +20,6 @@
 - 🤝 I'm looking for help with **learning design patterns**
 
 - 📫 How to reach me **arshiagh.network@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/ArshiaXGH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ArshiaXGH" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arshiagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arshiagh" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Main Skills:</h3>
 

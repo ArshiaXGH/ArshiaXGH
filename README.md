@@ -1,5 +1,3 @@
-# Hi 👋, I'm ArshiaGH
-
 ### Crafting the Modern Web.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ArshiaXGH&label=Profile views&color=0e75b6&style=flat" alt="ArshiaXGH" /> </p>

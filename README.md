@@ -1,6 +1,8 @@
 ### Crafting the Modern Web.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ArshiaXGH&label=Profile views&color=0e75b6&style=flat" alt="ArshiaXGH" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ArshiaXGH&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="ArshiaXGH" />
+</p>
 
 - 🔭 I'm currently working on **React project**
 

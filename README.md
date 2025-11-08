@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Montserrat&amp;weight=500&amp;size=25&amp;duration=4500&amp;pause=500&amp;color=03A9F4&amp;width=520&amp;lines=Hello+i%27m+arshia+ghazanfari"
+    src="https://readme-typing-svg.demolab.com/?font=Montserrat&amp;weight=500&amp;size=25&amp;duration=4500&amp;pause=500&amp;color=03A9F4&amp;width=520&amp;lines=Hello+i%27m+Arshia+Ghazanfari"
     alt="Hello i'm arshia ghazanfari"
   />
 </a>
